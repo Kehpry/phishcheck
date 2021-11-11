@@ -2,6 +2,65 @@
 owner: Kehpry # Your GitHub organization or username, where this repository lives
 repo: phishcheck # The name of this repository
 
+# Trad
+i18n:
+  activeIncidents: Sites qui ne répondent plus
+  allSystemsOperational: Tous les sites sont accessibles
+  incidentReport: "Rapport de fermeture n°#$NUMBER →"
+  activeIncidentSummary: Inaccessible le $DATE avec $POSTS messages
+  incidentTitle: Détails de l'activité $NUMBER
+  incidentDetails: Détails de l'activité
+  incidentFixed: Fermé
+  incidentOngoing: En cours
+  incidentOpenedAt: Inaccessible à
+  incidentClosedAt: Fermé à
+  incidentSubscribe: S'abonner aux mises à jour
+  incidentViewOnGitHub: Voir sur Github
+  incidentCommentSummary: Posté le $DATE par $AUTHOR
+  incidentBack: ← Retour à toutes les fermetures
+  pastIncidents: Fermetures passées
+  pastIncidentsResolved: Signalement fermé en $MINUTES minutes avec $POSTS messages
+  liveStatus: États en direct
+  overallUptime: "Temps de disponibilité global : $UPTIME"
+  overallUptimeTitle: Temps de disponible
+  averageResponseTime: "Temps de réponse moyen: $TIMEms"
+  averageResponseTimeTitle: Réponse moyenne
+  sevelDayResponseTime: Délai de réponse sous 7 jours
+  responseTimeMs: Temps de réponse (ms)
+  up: Accessible
+  down: Inaccessible
+  degraded: Dégradé
+  ms: ms
+  loading: Chargement
+  navGitHub: GitHub
+  footer: Cette page est [open source]($REPO), réalisée par [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Limite de débit dépassée
+  rateLimitExceededIntro: Vous avez dépassé le nombre de requêtes que vous pouvez effectuer en une heure, vous devrez donc patienter avant d'accéder à nouveau à ce site. Vous pouvez également ajouter un jeton d'accès personnel GitHub pour continuer à utiliser ce site Web.
+  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
+  rateLimitExceededErrorMeaning: Ce site Web utilise l'API GitHub pour accéder aux données en temps réel sur l'état de nos sites Web. Par défaut, GitHub autorise chaque adresse IP 60 requêtes par heure, que vous avez consommées.
+  rateLimitExceededErrorHowCanFix: Comment régler ça ?
+  rateLimitExceededErrorFix: Vous pouvez attendre encore une heure et la limite de votre adresse IP sera restaurée. Alternativement, vous pouvez ajouter votre jeton d'accès personnel GitHub, ce qui vous donne 5 000 requêtes supplémentaires par heure.
+  rateLimitExceededGeneratePAT: Voir comment générer un jeton personnel
+  rateLimitExceededHasSet: Vous disposez d'un jeu de jetons d'accès personnel.
+  rateLimitExceededRemoveToken: Retirer le jeton d'accès
+  rateLimitExceededGitHubPAT: Jeton d'accès personnel GitHub
+  rateLimitExceededCopyPastePAT: Copiez/collez votre jeton
+  rateLimitExceededSaveToken: Sauvegarder le jeton
+  errorTitle: Une erreur s'est produite
+  errorIntro: Une erreur s'est produite lors de la dernière actualisation
+  errorText: Vous pourrez ré-essayer dans quelques instants.
+  errorHome: Retourner à la page d'accueil.
+  pastScheduledMaintenance: Maintenance planifiée passée.
+  scheduledMaintenance: Maintenance planifiée
+  scheduledMaintenanceSummaryStarted: Commencée le $DATE pour $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Commencera le $DATE pour $DURATION minutes
+  startedAt: Commencée le
+  startsAt: Commence le
+  duration: Durée
+  durationMin: $DURATION minutes
+  incidentCompleted: Terminé
+  incidentScheduled: Planifié
+
 sites:
   - name: potion-tylabox.xyz
     url: https://potion-tylabox.xyz
@@ -21,15 +80,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: phishcheck.dofhelp.fr
   # baseUrl: /phishcheck
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.dofhelp.fr/styles/default/xenforo/logov3-hd.png
+  name: DofHelp - Statuts
+  introTitle: "États des sites de phishing signalés."
+  introMessage: Cette page détermine en **temps réel** la disponibilité de nos sites. Ces vérifications sont effectuées et gérées depuis Github !
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Dofhelp
+      href: https://www.dofhelp.fr
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
