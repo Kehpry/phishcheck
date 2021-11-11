@@ -62,10 +62,6 @@ i18n:
   incidentScheduled: Planifié
 
 sites:
-  - name: potion-tylabox.xyz
-    url: https://potion-tylabox.xyz
-  - name: potion-natabox.cam
-    url: https://potion-natabox.cam
   - name: dofus-boutiques.com
     url: https://dofus-boutiques.com
   - name: infosdofus.com
