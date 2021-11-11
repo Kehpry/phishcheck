@@ -1,45 +1,5 @@
 [
   {
-    "name": "potion-tylabox.xyz",
-    "url": "https://potion-tylabox.xyz",
-    "icon": "https://favicons.githubusercontent.com/potion-tylabox.xyz",
-    "slug": "potion-tylabox-xyz",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 376,
-    "timeDay": 376,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
-    "dailyMinutesDown": {
-      "2021-11-11": 44
-    }
-  },
-  {
-    "name": "potion-natabox.cam",
-    "url": "https://potion-natabox.cam",
-    "icon": "https://favicons.githubusercontent.com/potion-natabox.cam",
-    "slug": "potion-natabox-cam",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 451,
-    "timeDay": 451,
-    "timeWeek": 451,
-    "timeMonth": 451,
-    "timeYear": 451,
-    "dailyMinutesDown": {
-      "2021-11-11": 44
-    }
-  },
-  {
     "name": "dofus-boutiques.com",
     "url": "https://dofus-boutiques.com",
     "icon": "https://favicons.githubusercontent.com/dofus-boutiques.com",
@@ -50,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 308,
-    "timeWeek": 308,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 782,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {}
   }
 ]
