@@ -66,8 +66,6 @@ sites:
     url: https://potion-tylabox.xyz
   - name: potion-natabox.cam
     url: https://potion-natabox.cam
-  - name: potion-nytabox.xyz
-    url: https://potion-nytabox.xyz
   - name: dofus-boutiques.com
     url: https://dofus-boutiques.com
   - name: infosdofus.com
@@ -83,7 +81,7 @@ status-website:
   logoUrl: https://www.dofhelp.fr/styles/default/xenforo/logov3-hd.png
   name: DofHelp - Statuts
   introTitle: "États des sites de phishing signalés."
-  introMessage: Cette page détermine en **temps réel** la disponibilité de nos sites. Ces vérifications sont effectuées et gérées depuis Github !
+  introMessage: Cette page détermine en **temps réel** la disponibilité des sites de phishing qui ont été signalés sur le forum. Ces vérifications sont effectuées et gérées depuis Github !
   navbar:
     - title: Dofhelp
       href: https://www.dofhelp.fr
