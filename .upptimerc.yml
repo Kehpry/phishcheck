@@ -62,8 +62,6 @@ i18n:
   incidentScheduled: Planifié
 
 sites:
-  - name: dofus-boutiques.com
-    url: https://dofus-boutiques.com
   - name: infosdofus.com
     url: https://infosdofus.com
   - name: www-dofus-mmorpg.fr
