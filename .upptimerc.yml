@@ -66,6 +66,8 @@ sites:
     url: https://infosdofus.com
   - name: www-dofus-mmorpg.fr
     url: https://www-dofus-mmorpg.fr
+  - name: dofus-potion.online test
+    url: https://dofus-potion.online
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
