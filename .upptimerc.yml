@@ -64,6 +64,8 @@ i18n:
 sites:
   - name: www-dofus-mmorpg.fr
     url: https://www-dofus-mmorpg.fr
+  - name: Site test inaccessible
+    url: https://lutabox.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
