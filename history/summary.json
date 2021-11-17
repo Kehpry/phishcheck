@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 794,
-    "timeWeek": 956,
-    "timeMonth": 956,
-    "timeYear": 956,
+    "time": 964,
+    "timeDay": 865,
+    "timeWeek": 964,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Site test inaccessible",
+    "url": "https://lutabox.xyz",
+    "icon": "https://favicons.githubusercontent.com/lutabox.xyz",
+    "slug": "site-test-inaccessible",
+    "status": "down",
+    "uptime": "14.46%",
+    "uptimeDay": "14.46%",
+    "uptimeWeek": "14.46%",
+    "uptimeMonth": "14.46%",
+    "uptimeYear": "14.46%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-11-17": 0
+    }
   }
 ]
