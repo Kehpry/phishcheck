@@ -23,36 +23,36 @@
     "icon": "https://favicons.githubusercontent.com/elixirs-timabox.xyz",
     "slug": "elixirs-timabox-xyz",
     "status": "up",
-    "uptime": "94.03%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "94.03%",
-    "uptimeYear": "94.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 778,
     "timeDay": 778,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 778,
-    "dailyMinutesDown": {
-      "2021-11-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "newsdofus.com",
     "url": "https://newsdofus.com",
     "icon": "https://favicons.githubusercontent.com/newsdofus.com",
     "slug": "newsdofus-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 660,
     "timeDay": 660,
     "timeWeek": 660,
     "timeMonth": 660,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   }
 ]
