@@ -22,19 +22,19 @@
     "url": "https://elixirs-timabox.xyz",
     "icon": "https://favicons.githubusercontent.com/elixirs-timabox.xyz",
     "slug": "elixirs-timabox-xyz",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 772,
-    "timeDay": 772,
-    "timeWeek": 772,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "status": "up",
+    "uptime": "94.03%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "94.03%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "94.03%",
+    "time": 778,
+    "timeDay": 778,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2021-11-18": 0
+      "2021-11-18": 8
     }
   },
   {
