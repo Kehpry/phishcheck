@@ -66,6 +66,8 @@ sites:
     url: https://www-dofus-mmorpg.fr
   - name: elixirs-timabox.xyz
     url: https://elixirs-timabox.xyz
+  - name: newsdofus.com
+    url: https://newsdofus.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
