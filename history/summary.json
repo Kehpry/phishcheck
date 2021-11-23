@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1124,
-    "timeDay": 1391,
-    "timeWeek": 1180,
-    "timeMonth": 1124,
-    "timeYear": 1124,
+    "time": 1147,
+    "timeDay": 1501,
+    "timeWeek": 1211,
+    "timeMonth": 1147,
+    "timeYear": 1147,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "dofus-guilds.com",
-    "url": "https://dofus-guilds.com",
-    "icon": "https://favicons.githubusercontent.com/dofus-guilds.com",
-    "slug": "dofus-guilds-com",
-    "status": "up",
-    "uptime": "94.66%",
-    "uptimeDay": "93.49%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "94.66%",
-    "time": 3592,
-    "timeDay": 3755,
-    "timeWeek": 3592,
-    "timeMonth": 3592,
-    "timeYear": 3592,
-    "dailyMinutesDown": {
-      "2021-11-23": 93
-    }
   },
   {
     "name": "clash-of-guildes-ii.com",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 828,
-    "timeWeek": 809,
-    "timeMonth": 809,
-    "timeYear": 809,
+    "time": 834,
+    "timeDay": 859,
+    "timeWeek": 834,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   }
 ]
