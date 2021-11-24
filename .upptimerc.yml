@@ -66,6 +66,8 @@ sites:
     url: https://www-dofus-mmorpg.fr
   - name: clash-of-guildes-ii.com
     url: https://clash-of-guildes-ii.com
+  - name: dofus-planner.com
+    url: https://dofus-planner.com/fr/mmorpg/actualites/news/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
