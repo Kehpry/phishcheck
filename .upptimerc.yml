@@ -62,13 +62,11 @@ i18n:
   incidentScheduled: Planifié
 
 sites:
-  - name: www-dofus-mmorpg.fr
-    url: https://www-dofus-mmorpg.fr
   - name: clash-of-guildes-ii.com
     url: https://clash-of-guildes-ii.com
-  - name: dofus-planner.com
-    url: https://dofus-planner.com/fr/mmorpg/actualites/news/
-
+  - name: dofus-touch.info
+    url: https://www.dofus-touch.info
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
