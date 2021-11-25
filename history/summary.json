@@ -4,19 +4,19 @@
     "url": "https://clash-of-guildes-ii.com",
     "icon": "https://favicons.githubusercontent.com/clash-of-guildes-ii.com",
     "slug": "clash-of-guildes-ii-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 1219,
-    "timeWeek": 914,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 885,
+    "timeDay": 1050,
+    "timeWeek": 885,
+    "timeMonth": 885,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2021-11-25": 0
+      "2021-11-25": 25
     }
   },
   {
