@@ -62,10 +62,11 @@ i18n:
   incidentScheduled: Planifié
 
 sites:
-  - name: clash-of-guildes-ii.com
-    url: https://clash-of-guildes-ii.com
+
   - name: dofus-touch.info
     url: https://www.dofus-touch.info
+  - name: dofus-touch-fr.com
+    url: https://dofus-touch-fr.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
