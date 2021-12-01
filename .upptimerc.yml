@@ -65,8 +65,6 @@ sites:
 
   - name: dofus-touch.info
     url: https://www.dofus-touch.info
-  - name: ankama-role.live
-    url: https://ankama-role.live/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
