@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1375,
-    "timeDay": 1221,
-    "timeWeek": 1375,
-    "timeMonth": 1375,
-    "timeYear": 1375,
+    "time": 1385,
+    "timeDay": 1311,
+    "timeWeek": 1385,
+    "timeMonth": 1385,
+    "timeYear": 1385,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "dofus-touch-fr.com",
-    "url": "https://dofus-touch-fr.com",
-    "icon": "https://favicons.githubusercontent.com/dofus-touch-fr.com",
-    "slug": "dofus-touch-fr-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 363,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
-    "dailyMinutesDown": {
-      "2021-12-01": 0
-    }
   },
   {
     "name": "ankama-role.live",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   }
 ]
