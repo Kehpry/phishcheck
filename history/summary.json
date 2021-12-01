@@ -22,7 +22,7 @@
     "url": "https://dofus-touch-fr.com",
     "icon": "https://favicons.githubusercontent.com/dofus-touch-fr.com",
     "slug": "dofus-touch-fr-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 438,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-01": 0
+    }
   },
   {
     "name": "ankama-role.live",
