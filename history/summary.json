@@ -4,7 +4,7 @@
     "url": "https://www.dofus-touch.info",
     "icon": "https://favicons.githubusercontent.com/www.dofus-touch.info",
     "slug": "dofus-touch-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1382,
     "timeMonth": 1382,
     "timeYear": 1382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-01": 0
+    }
   },
   {
     "name": "vvww-dofus.club",
