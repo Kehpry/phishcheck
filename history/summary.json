@@ -1,22 +1,20 @@
 [
   {
-    "name": "dofus-touch.info",
-    "url": "https://www.dofus-touch.info",
-    "icon": "https://favicons.githubusercontent.com/www.dofus-touch.info",
-    "slug": "dofus-touch-info",
-    "status": "down",
+    "name": "dofus-touch.store",
+    "url": "https://www.dofus-touch.store",
+    "icon": "https://favicons.githubusercontent.com/www.dofus-touch.store",
+    "slug": "dofus-touch-store",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 1254,
-    "timeWeek": 1328,
-    "timeMonth": 1339,
-    "timeYear": 1339,
-    "dailyMinutesDown": {
-      "2021-12-02": 0
-    }
+    "time": 1077,
+    "timeDay": 1077,
+    "timeWeek": 1077,
+    "timeMonth": 1077,
+    "timeYear": 1077,
+    "dailyMinutesDown": {}
   }
 ]
