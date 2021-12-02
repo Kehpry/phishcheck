@@ -67,6 +67,8 @@ sites:
     url: https://www.dofus-touch.store
   - name: ankama-win.live
     url: https://ankama-win.live/
+  - name: dofusofficiels.com
+    url: http://dofusofficiels.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
