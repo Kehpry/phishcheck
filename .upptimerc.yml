@@ -63,8 +63,8 @@ i18n:
 
 sites:
 
-  - name: dofus-touch.info
-    url: https://www.dofus-touch.info
+  - name: dofus-touch.store
+    url: https://www.dofus-touch.store
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
