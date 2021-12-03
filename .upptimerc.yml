@@ -65,8 +65,6 @@ sites:
 
   - name: dofus-touch.store
     url: https://www.dofus-touch.store
-  - name: dofusofficiels.com
-    url: http://dofusofficiels.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
