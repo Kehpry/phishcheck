@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/ankama-tendance.live",
     "slug": "ankama-tendance-live",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "84.08%",
+    "uptimeDay": "75.82%",
+    "uptimeWeek": "84.08%",
+    "uptimeMonth": "84.08%",
+    "uptimeYear": "84.08%",
     "time": 359,
-    "timeDay": 454,
+    "timeDay": 0,
     "timeWeek": 359,
     "timeMonth": 359,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2021-12-07": 0
+      "2021-12-08": 70,
+      "2021-12-07": 279
     }
   }
 ]
