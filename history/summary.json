@@ -1,22 +1,38 @@
 [
   {
-    "name": "leitax.xyz",
-    "url": "https://leitax.xyz/",
-    "icon": "https://favicons.githubusercontent.com/leitax.xyz",
-    "slug": "leitax-xyz",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 836,
-    "timeDay": 836,
-    "timeWeek": 836,
-    "timeMonth": 836,
-    "timeYear": 836,
-    "dailyMinutesDown": {
-      "2021-12-09": 0
-    }
+    "name": "dofus-retro.fr",
+    "url": "https://dofus-retro.fr",
+    "icon": "https://favicons.githubusercontent.com/dofus-retro.fr",
+    "slug": "dofus-retro-fr",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "dofus-krosmo.com",
+    "url": "https://dofus-krosmo.com/",
+    "icon": "https://favicons.githubusercontent.com/dofus-krosmo.com",
+    "slug": "dofus-krosmo-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
+    "dailyMinutesDown": {}
   }
 ]
