@@ -63,10 +63,8 @@ i18n:
 
 sites:
 
-  - name: dofus-retro.fr
-    url: https://dofus-retro.fr
-  - name: dofus-krosmo.com
-    url: https://dofus-krosmo.com/
+  - name: DofHelp ! 💪🏆
+    url: https://www.dofhelp.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
