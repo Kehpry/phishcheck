@@ -1,22 +1,20 @@
 [
   {
-    "name": "leitasir.cam",
-    "url": "https://leitasir.cam/",
-    "icon": "https://favicons.githubusercontent.com/leitasir.cam",
-    "slug": "leitasir-cam",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 818,
-    "timeDay": 818,
-    "timeWeek": 818,
-    "timeMonth": 818,
-    "timeYear": 818,
-    "dailyMinutesDown": {
-      "2021-12-09": 0
-    }
+    "name": "DofHelp ! 💪🏆",
+    "url": "https://www.dofhelp.fr",
+    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
+    "slug": "dof-help",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 316,
+    "timeDay": 321,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
+    "dailyMinutesDown": {}
   }
 ]
