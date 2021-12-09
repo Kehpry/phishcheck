@@ -1,40 +1,20 @@
 [
   {
-    "name": "dofus-retro.fr",
-    "url": "https://dofus-retro.fr",
-    "icon": "https://favicons.githubusercontent.com/dofus-retro.fr",
-    "slug": "dofus-retro-fr",
+    "name": "DofHelp ! 💪🏆",
+    "url": "https://www.dofhelp.fr",
+    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
+    "slug": "dof-help",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 354,
-    "timeWeek": 354,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "time": 332,
+    "timeDay": 377,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "dofus-krosmo.com",
-    "url": "https://dofus-krosmo.com/",
-    "icon": "https://favicons.githubusercontent.com/dofus-krosmo.com",
-    "slug": "dofus-krosmo-com",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {
-      "2021-12-09": 0
-    }
   }
 ]
