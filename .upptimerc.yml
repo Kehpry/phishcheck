@@ -63,8 +63,10 @@ i18n:
 
 sites:
 
-  - name: DofHelp ! 💪🏆
-    url: https://www.dofhelp.fr
+  - name: frdofus.com
+    url: https://frdofus.com/
+  - name: lanabox.xyz
+    url: https://lanabox.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
