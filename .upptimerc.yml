@@ -63,8 +63,8 @@ i18n:
 
 sites:
 
-  - name: frdofus.com
-    url: https://frdofus.com/
+  - name: dofus-ankama.fr
+    url: https://www.dofus-ankama.fr
   - name: lanabox.xyz
     url: https://lanabox.xyz/
 
