@@ -63,10 +63,8 @@ i18n:
 
 sites:
 
-  - name: kolinox.xyz
-    url: https://kolinox.xyz/
-  - name: metalir.xyz
-    url: https://metalir.xyz/
+  - name: DofHelp ! 💪🏆
+    url: https://www.dofhelp.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
