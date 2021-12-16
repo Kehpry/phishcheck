@@ -63,8 +63,8 @@ i18n:
 
 sites:
 
-  - name: manabox.cam
-    url: https://manabox.cam
+  - name: devblogs-melaris.xyz
+    url: https://www.devblogs-melaris.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
