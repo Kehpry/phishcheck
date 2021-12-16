@@ -1,20 +1,20 @@
 [
   {
-    "name": "DofHelp ! 💪🏆",
-    "url": "https://www.dofhelp.fr",
-    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
-    "slug": "dof-help",
+    "name": "navabox.cam",
+    "url": "https://navabox.cam/",
+    "icon": "https://favicons.githubusercontent.com/navabox.cam",
+    "slug": "navabox-cam",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 415,
-    "timeWeek": 348,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "time": 1040,
+    "timeDay": 1040,
+    "timeWeek": 1040,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   }
 ]
