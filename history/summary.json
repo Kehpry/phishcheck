@@ -4,18 +4,20 @@
     "url": "https://navabox.cam/",
     "icon": "https://favicons.githubusercontent.com/navabox.cam",
     "slug": "navabox-cam",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1135,
     "timeDay": 1135,
     "timeWeek": 1135,
     "timeMonth": 1135,
     "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "mavabox.cam",
