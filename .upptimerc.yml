@@ -63,8 +63,18 @@ i18n:
 
 sites:
 
-  - name: DofHelp ! 💪🏆
-    url: https://www.dofhelp.fr
+  - name: dofus-fete.com
+    url: https://dofus-fete.com
+  - name: dofus-retros.co
+    url: https://dofus-retros.co/
+  - name: dofustouch.fr
+    url: https://dofustouch.fr/
+  - name: updates-dofus.com
+    url: https://updates-dofus.com/
+  - name: ankama-fan.live
+    url: http://ankama-fan.live/
+  - name: ankama-krosmo.one
+    url: https://ankama-krosmo.one/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
