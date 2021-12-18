@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/dofus-retros.co",
     "slug": "dofus-retros-co",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.24%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 297,
     "timeDay": 297,
     "timeWeek": 297,
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2021-12-18": 0
+      "2021-12-18": 9
     }
   },
   {
@@ -96,17 +96,19 @@
     "url": "https://ankama-krosmo.one/",
     "icon": "https://favicons.githubusercontent.com/ankama-krosmo.one",
     "slug": "ankama-krosmo-one",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 266,
     "timeDay": 266,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-18": 0
+    }
   }
 ]
