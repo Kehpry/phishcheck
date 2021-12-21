@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/dofus-fete.com",
     "slug": "dofus-fete-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1504,
-    "timeDay": 1260,
-    "timeWeek": 1504,
-    "timeMonth": 1504,
-    "timeYear": 1504,
+    "uptime": "91.52%",
+    "uptimeDay": "69.13%",
+    "uptimeWeek": "91.52%",
+    "uptimeMonth": "91.52%",
+    "uptimeYear": "91.52%",
+    "time": 1405,
+    "timeDay": 691,
+    "timeWeek": 1405,
+    "timeMonth": 1405,
+    "timeYear": 1405,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-21": 73,
+      "2021-12-20": 372
     }
   }
 ]
