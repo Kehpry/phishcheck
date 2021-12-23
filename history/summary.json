@@ -1,22 +1,20 @@
 [
   {
-    "name": "eventabox.live",
-    "url": "https://eventabox.live/",
-    "icon": "https://favicons.githubusercontent.com/eventabox.live",
-    "slug": "eventabox-live",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1502,
-    "timeDay": 1502,
-    "timeWeek": 1502,
-    "timeMonth": 1502,
-    "timeYear": 1502,
-    "dailyMinutesDown": {
-      "2021-12-23": 0
-    }
+    "name": "DofHelp ! 💪",
+    "url": "https://www.dofhelp.fr",
+    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
+    "slug": "dof-help",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 359,
+    "timeDay": 288,
+    "timeWeek": 422,
+    "timeMonth": 359,
+    "timeYear": 359,
+    "dailyMinutesDown": {}
   }
 ]
