@@ -1,20 +1,20 @@
 [
   {
-    "name": "DofHelp !",
-    "url": "https://www.dofhelp.fr",
-    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
-    "slug": "dof-help",
+    "name": "eventabox.live",
+    "url": "https://eventabox.live/",
+    "icon": "https://favicons.githubusercontent.com/eventabox.live",
+    "slug": "eventabox-live",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 239,
-    "timeWeek": 437,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 1502,
+    "timeDay": 1502,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
     "dailyMinutesDown": {}
   }
 ]
