@@ -4,17 +4,19 @@
     "url": "https://eventabox.live/",
     "icon": "https://favicons.githubusercontent.com/eventabox.live",
     "slug": "eventabox-live",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 1502,
     "timeDay": 1502,
     "timeWeek": 1502,
     "timeMonth": 1502,
     "timeYear": 1502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-23": 0
+    }
   }
 ]
