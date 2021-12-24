@@ -1,20 +1,20 @@
 [
   {
-    "name": "DofHelp ! 💪",
-    "url": "https://www.dofhelp.fr",
-    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
-    "slug": "dof-help",
+    "name": "reytabox.xyz",
+    "url": "https://www.reytabox.xyz/",
+    "icon": "https://favicons.githubusercontent.com/www.reytabox.xyz",
+    "slug": "reytabox-xyz",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 542,
-    "timeWeek": 491,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "time": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {}
   }
 ]
