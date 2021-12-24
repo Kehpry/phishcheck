@@ -63,10 +63,8 @@ i18n:
 
 sites:
 
-  - name: reytabox.xyz
-    url:  https://www.reytabox.xyz/
-  - name: neytalir.cam
-    url: https://neytalir.cam/
+  - name: DofHelp ! 🏆✌️
+    url: https://www.dofhelp.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
