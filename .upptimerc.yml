@@ -63,10 +63,8 @@ i18n:
 
 sites:
 
-  - name: dofus-quete.com
-    url: https://dofus-quete.com/
-  - name: dofus-logs.com
-    url: https://dofus-logs.com/
+  - name: ankamanet.com
+    url: https://www.ankamanet.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
