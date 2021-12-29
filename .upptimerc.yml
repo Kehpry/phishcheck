@@ -63,8 +63,10 @@ i18n:
 
 sites:
 
-  - name: DofHelp ! 🏆✌️
-    url: https://www.dofhelp.fr
+  - name: dofus-quete.com
+    url: https://dofus-quete.com/
+  - name: dofus-logs.com
+    url: https://dofus-logs.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
