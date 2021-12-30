@@ -63,8 +63,12 @@ i18n:
 
 sites:
 
-  - name: DofHelp 🏆💪
-    url: https://www.dofhelp.fr
+  - name: event-krosmopack.com
+    url: https://event-krosmopack.com
+  - name: pack-ankama.com
+    url: https://pack-ankama.com
+  - name: dofus-touch.site
+    url: https://dofus-touch.site
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
