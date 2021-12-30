@@ -65,8 +65,6 @@ sites:
 
   - name: event-krosmopack.com
     url: https://event-krosmopack.com
-  - name: pack-ankama.com
-    url: https://pack-ankama.com
   - name: dofus-touch.site
     url: https://dofus-touch.site
 
