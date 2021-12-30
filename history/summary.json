@@ -22,17 +22,19 @@
     "url": "https://dofus-touch.site",
     "icon": "https://favicons.githubusercontent.com/dofus-touch.site",
     "slug": "dofus-touch-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 532,
     "timeDay": 532,
     "timeWeek": 532,
     "timeMonth": 532,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-30": 0
+    }
   }
 ]
