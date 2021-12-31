@@ -1,25 +1,5 @@
 [
   {
-    "name": "event-krosmopack.com",
-    "url": "https://event-krosmopack.com",
-    "icon": "https://favicons.githubusercontent.com/event-krosmopack.com",
-    "slug": "event-krosmopack-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 626,
-    "timeDay": 626,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
-    "dailyMinutesDown": {
-      "2021-12-31": 0
-    }
-  },
-  {
     "name": "DofHelp 🏆💪",
     "url": "https://www.dofhelp.fr",
     "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 610,
-    "timeWeek": 552,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "time": 440,
+    "timeDay": 632,
+    "timeWeek": 560,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {}
   }
 ]
