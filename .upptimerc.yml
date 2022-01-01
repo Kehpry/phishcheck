@@ -63,20 +63,14 @@ i18n:
 
 sites:
 
-  - name: ankamafr.com
-    url: https://www.ankamafr.com/fr/mmorpg/actualites/news/
   - name: ankadeaux.club
     url: https://ankadeaux.club/
   - name: forumdofus.com
     url: http://forumdofus.com/
-  - name: ankamafr.com
-    url: https://www.ankamafr.com/fr/mmorpg/actualites/news/
   - name: ankama-officiel.com
     url: https://ankama-officiel.com/
   - name: pack-ankama.shop
     url: https://www.pack-ankama.shop/fr/mmorpg/actualites/pack-864652/
-  - name: ankamafr.com
-    url: https://www.ankamafr.com/fr/mmorpg/actualites/news/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
