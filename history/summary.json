@@ -1,25 +1,5 @@
 [
   {
-    "name": "ankadeaux.club",
-    "url": "https://ankadeaux.club/",
-    "icon": "https://favicons.githubusercontent.com/ankadeaux.club",
-    "slug": "ankadeaux-club",
-    "status": "down",
-    "uptime": "70.06%",
-    "uptimeDay": "70.06%",
-    "uptimeWeek": "70.06%",
-    "uptimeMonth": "70.06%",
-    "uptimeYear": "70.06%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2022-01-01": 162
-    }
-  },
-  {
     "name": "forumdofus.com",
     "url": "http://forumdofus.com/",
     "icon": "https://favicons.githubusercontent.com/forumdofus.com",
@@ -30,49 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 881,
-    "timeWeek": 881,
-    "timeMonth": 881,
-    "timeYear": 881,
+    "time": 987,
+    "timeDay": 987,
+    "timeWeek": 987,
+    "timeMonth": 987,
+    "timeYear": 987,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ankama-officiel.com",
-    "url": "https://ankama-officiel.com/",
-    "icon": "https://favicons.githubusercontent.com/ankama-officiel.com",
-    "slug": "ankama-officiel-com",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
-    "dailyMinutesDown": {
-      "2022-01-01": 0
-    }
   },
   {
     "name": "pack-ankama.shop",
     "url": "https://www.pack-ankama.shop/fr/mmorpg/actualites/pack-864652/",
     "icon": "https://favicons.githubusercontent.com/www.pack-ankama.shop",
     "slug": "pack-ankama-shop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   }
 ]
