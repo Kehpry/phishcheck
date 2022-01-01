@@ -1,25 +1,5 @@
 [
   {
-    "name": "ankamafr.com",
-    "url": "https://www.ankamafr.com/fr/mmorpg/actualites/news/",
-    "icon": "https://favicons.githubusercontent.com/www.ankamafr.com",
-    "slug": "ankamafr-com",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
-    "dailyMinutesDown": {
-      "2022-01-01": 0
-    }
-  },
-  {
     "name": "ankadeaux.club",
     "url": "https://ankadeaux.club/",
     "icon": "https://favicons.githubusercontent.com/ankadeaux.club",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "time": 227,
+    "timeDay": 227,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -48,32 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1012,
-    "timeWeek": 1012,
-    "timeMonth": 1012,
-    "timeYear": 1012,
+    "time": 881,
+    "timeDay": 881,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ankamafr.com",
-    "url": "https://www.ankamafr.com/fr/mmorpg/actualites/news/",
-    "icon": "https://favicons.githubusercontent.com/www.ankamafr.com",
-    "slug": "ankamafr-com",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
-    "dailyMinutesDown": {
-      "2022-01-01": 0
-    }
   },
   {
     "name": "ankama-officiel.com",
@@ -86,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -104,31 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 156,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ankamafr.com",
-    "url": "https://www.ankamafr.com/fr/mmorpg/actualites/news/",
-    "icon": "https://favicons.githubusercontent.com/www.ankamafr.com",
-    "slug": "ankamafr-com",
-    "status": "down",
-    "uptime": "98.44%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
-    "dailyMinutesDown": {
-      "2022-01-01": 0
-    }
   }
 ]
