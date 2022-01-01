@@ -63,12 +63,8 @@ i18n:
 
 sites:
 
-  - name: ankadeaux.club
-    url: https://ankadeaux.club/
   - name: forumdofus.com
     url: http://forumdofus.com/
-  - name: ankama-officiel.com
-    url: https://ankama-officiel.com/
   - name: pack-ankama.shop
     url: https://www.pack-ankama.shop/fr/mmorpg/actualites/pack-864652/
 
