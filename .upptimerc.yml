@@ -65,8 +65,8 @@ sites:
 
   - name: forumdofus.com
     url: http://forumdofus.com/
-  - name: pack-ankama.shop
-    url: https://www.pack-ankama.shop/fr/mmorpg/actualites/pack-864652/
+  - name: Dofhelp ! 💪
+    url: https://www.dofhelp.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
