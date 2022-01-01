@@ -4,18 +4,20 @@
     "url": "https://www.ankamafr.com/fr/mmorpg/actualites/news/",
     "icon": "https://favicons.githubusercontent.com/www.ankamafr.com",
     "slug": "ankamafr-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   },
   {
     "name": "ankadeaux.club",
@@ -58,18 +60,20 @@
     "url": "https://www.ankamafr.com/fr/mmorpg/actualites/news/",
     "icon": "https://favicons.githubusercontent.com/www.ankamafr.com",
     "slug": "ankamafr-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   },
   {
     "name": "ankama-officiel.com",
@@ -112,17 +116,19 @@
     "url": "https://www.ankamafr.com/fr/mmorpg/actualites/news/",
     "icon": "https://favicons.githubusercontent.com/www.ankamafr.com",
     "slug": "ankamafr-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.44%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   }
 ]
