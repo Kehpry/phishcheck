@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/ankadeaux.club",
     "slug": "ankadeaux-club",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "70.06%",
+    "uptimeDay": "70.06%",
+    "uptimeWeek": "70.06%",
+    "uptimeMonth": "70.06%",
+    "uptimeYear": "70.06%",
     "time": 227,
     "timeDay": 227,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2022-01-01": 0
+      "2022-01-01": 162
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://ankama-officiel.com/",
     "icon": "https://favicons.githubusercontent.com/ankama-officiel.com",
     "slug": "ankama-officiel-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 323,
     "timeDay": 323,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   },
   {
     "name": "pack-ankama.shop",
