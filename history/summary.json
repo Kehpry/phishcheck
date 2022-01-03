@@ -1,20 +1,20 @@
 [
   {
-    "name": "DofHelp !! 💪",
-    "url": "http://www.dofhelp.fr",
-    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
-    "slug": "dof-help",
+    "name": "ankamaforum.com",
+    "url": "https://ankamaforum.com",
+    "icon": "https://favicons.githubusercontent.com/ankamaforum.com",
+    "slug": "ankamaforum-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 423,
-    "timeWeek": 587,
-    "timeMonth": 445,
-    "timeYear": 445,
+    "time": 297,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   }
 ]
