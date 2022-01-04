@@ -1,20 +1,20 @@
 [
   {
-    "name": "DofHelp !! 💪",
-    "url": "https://www.dofhelp.fr",
-    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
-    "slug": "dof-help",
+    "name": "forum-dofus.com.co",
+    "url": "http://forum-dofus.com.co/",
+    "icon": "https://favicons.githubusercontent.com/forum-dofus.com.co",
+    "slug": "forum-dofus-com-co",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 546,
-    "timeWeek": 605,
-    "timeMonth": 463,
-    "timeYear": 454,
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   }
 ]
