@@ -65,6 +65,16 @@ sites:
 
   - name: forum-dofus.com.co
     url: http://forum-dofus.com.co/
+  - name: dofus-events.com
+    url: https://dofus-events.com/
+  - name: succes-dofus.com
+    url: https://succes-dofus.com/
+  - name: ankama-gain.com
+    url: https://ankama-gain.com/
+  - name: ankama-boutiques.com
+    url: https://ankama-boutiques.com/
+  - name: ankama.store
+    url: https://ankama.store/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
