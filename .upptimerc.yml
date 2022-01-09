@@ -65,6 +65,10 @@ sites:
 
   - name: forum-dofus.com.co
     url: http://forum-dofus.com.co/
+  - name: dofuis.com
+    url: https://dofuis.com/
+  - name: aide-dofus.com
+    url: https://aide-dofus.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
