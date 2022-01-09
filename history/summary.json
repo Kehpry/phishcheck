@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/ankadeaux.com",
     "slug": "ankadeaux-com",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "40.00%",
+    "uptimeDay": "40.00%",
+    "uptimeWeek": "40.00%",
+    "uptimeMonth": "40.00%",
+    "uptimeYear": "40.00%",
     "time": 437,
     "timeDay": 437,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-01-09": 0
+      "2022-01-09": 47
     }
   }
 ]
