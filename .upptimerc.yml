@@ -65,8 +65,7 @@ sites:
 
   - name: forum-dofus.com.co
     url: http://forum-dofus.com.co/
-  - name: ankama-pack.store
-    url: https://ankama-pack.store/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
