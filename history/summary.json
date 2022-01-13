@@ -1,42 +1,20 @@
 [
   {
-    "name": "dofusforum.com",
-    "url": "http://dofusforum.com/",
-    "icon": "https://favicons.githubusercontent.com/dofusforum.com",
-    "slug": "dofusforum-com",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 1019,
-    "timeDay": 1019,
-    "timeWeek": 1019,
-    "timeMonth": 1019,
-    "timeYear": 1019,
-    "dailyMinutesDown": {
-      "2022-01-13": 0
-    }
-  },
-  {
-    "name": "bestiaire-dofus.com",
-    "url": "http://bestiaire-dofus.com/",
-    "icon": "https://favicons.githubusercontent.com/bestiaire-dofus.com",
-    "slug": "bestiaire-dofus-com",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1101,
-    "timeDay": 1101,
-    "timeWeek": 1101,
-    "timeMonth": 1101,
-    "timeYear": 1101,
-    "dailyMinutesDown": {
-      "2022-01-13": 0
-    }
+    "name": "DofHelp !! 🏆💪",
+    "url": "http://www.dofhelp.fr",
+    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
+    "slug": "dof-help",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 462,
+    "timeDay": 753,
+    "timeWeek": 753,
+    "timeMonth": 527,
+    "timeYear": 462,
+    "dailyMinutesDown": {}
   }
 ]
