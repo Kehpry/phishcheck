@@ -63,10 +63,8 @@ i18n:
 
 sites:
 
-  - name: dofusforum.com
-    url: http://dofusforum.com/
-  - name: bestiaire-dofus.com
-    url: http://bestiaire-dofus.com/
+  - name: DofHelp !! 🏆💪
+    url: http://www.dofhelp.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
