@@ -63,9 +63,10 @@ i18n:
 
 sites:
 
-  - name: forum-dofus.com.co
-    url: http://forum-dofus.com.co/
-
+  - name: dofusforum.com
+    url: http://dofusforum.com/
+  - name: bestiaire-dofus.com
+    url: http://bestiaire-dofus.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
