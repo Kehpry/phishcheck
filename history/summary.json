@@ -4,36 +4,40 @@
     "url": "http://web-dofus.com/",
     "icon": "https://favicons.githubusercontent.com/web-dofus.com",
     "slug": "web-dofus-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1143,
     "timeDay": 1143,
     "timeWeek": 1143,
     "timeMonth": 1143,
     "timeYear": 1143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 0
+    }
   },
   {
     "name": "communaute-dofus.com",
     "url": "http://communaute-dofus.com/",
     "icon": "https://favicons.githubusercontent.com/communaute-dofus.com",
     "slug": "communaute-dofus-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1103,
     "timeDay": 1103,
     "timeWeek": 1103,
     "timeMonth": 1103,
     "timeYear": 1103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 0
+    }
   },
   {
     "name": "vwvw-dofus.com",
