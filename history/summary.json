@@ -1,62 +1,20 @@
 [
   {
-    "name": "web-dofus.com",
-    "url": "http://web-dofus.com/",
-    "icon": "https://favicons.githubusercontent.com/web-dofus.com",
-    "slug": "web-dofus-com",
-    "status": "down",
-    "uptime": "16.22%",
-    "uptimeDay": "16.22%",
-    "uptimeWeek": "16.22%",
-    "uptimeMonth": "16.22%",
-    "uptimeYear": "16.22%",
-    "time": 1143,
-    "timeDay": 1143,
-    "timeWeek": 1143,
-    "timeMonth": 1143,
-    "timeYear": 1143,
-    "dailyMinutesDown": {
-      "2022-01-15": 71,
-      "2022-01-14": 505
-    }
-  },
-  {
-    "name": "communaute-dofus.com",
-    "url": "http://communaute-dofus.com/",
-    "icon": "https://favicons.githubusercontent.com/communaute-dofus.com",
-    "slug": "communaute-dofus-com",
-    "status": "down",
-    "uptime": "16.23%",
-    "uptimeDay": "16.23%",
-    "uptimeWeek": "16.23%",
-    "uptimeMonth": "16.23%",
-    "uptimeYear": "16.23%",
-    "time": 1103,
-    "timeDay": 1103,
-    "timeWeek": 1103,
-    "timeMonth": 1103,
-    "timeYear": 1103,
-    "dailyMinutesDown": {
-      "2022-01-15": 71,
-      "2022-01-14": 505
-    }
-  },
-  {
-    "name": "vwvw-dofus.com",
-    "url": "https://vwvw-dofus.com/",
-    "icon": "https://favicons.githubusercontent.com/vwvw-dofus.com",
-    "slug": "vwvw-dofus-com",
+    "name": "Dofhelp !! 💪🏆",
+    "url": "http://www.dofhelp.fr",
+    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
+    "slug": "dofhelp",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "time": 464,
+    "timeDay": 493,
+    "timeWeek": 493,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {}
   }
 ]
