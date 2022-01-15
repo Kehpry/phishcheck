@@ -63,12 +63,9 @@ i18n:
 
 sites:
 
-  - name: web-dofus.com
-    url: http://web-dofus.com/
-  - name: communaute-dofus.com
-    url: http://communaute-dofus.com/
-  - name: vwvw-dofus.com
-    url: https://vwvw-dofus.com/
+  - name: Dofhelp !! 💪🏆
+    url: http://www.dofhelp.fr
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
