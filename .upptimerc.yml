@@ -65,7 +65,8 @@ sites:
 
   - name: Dofhelp !! 💪🏆
     url: http://www.dofhelp.fr
-
+  - name: tolanim.xyz
+    url: https://tolanim.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
