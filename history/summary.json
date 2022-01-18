@@ -5,36 +5,36 @@
     "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
     "slug": "dofhelp",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 526,
-    "timeDay": 574,
-    "timeWeek": 548,
-    "timeMonth": 526,
-    "timeYear": 526,
-    "dailyMinutesDown": {
-      "2022-01-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 530,
+    "timeDay": 604,
+    "timeWeek": 550,
+    "timeMonth": 530,
+    "timeYear": 530,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tolanim.xyz",
     "url": "https://tolanim.xyz/",
     "icon": "https://favicons.githubusercontent.com/tolanim.xyz",
     "slug": "tolanim-xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 245,
+    "timeDay": 242,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2022-01-18": 0
+    }
   }
 ]
