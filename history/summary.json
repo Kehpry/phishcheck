@@ -4,18 +4,20 @@
     "url": "http://www.dofhelp.fr",
     "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
     "slug": "dofhelp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 525,
+    "time": 500,
+    "timeDay": 521,
     "timeWeek": 517,
-    "timeMonth": 498,
-    "timeYear": 498,
-    "dailyMinutesDown": {}
+    "timeMonth": 500,
+    "timeYear": 500,
+    "dailyMinutesDown": {
+      "2022-01-18": 0
+    }
   },
   {
     "name": "tolanim.xyz",
