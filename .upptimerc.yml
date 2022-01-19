@@ -65,6 +65,12 @@ sites:
 
   - name: Dofhelp !! 💪🏆
     url: http://www.dofhelp.fr
+  - name: ankama-new.com
+    url: https://ankama-new.com/
+  - name: contenu-dofus.com
+    url: https://contenu-dofus.com/
+  - name: actus-dofus.com
+    url: http://actus-dofus.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
