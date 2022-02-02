@@ -11,30 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 546,
-    "timeWeek": 479,
+    "timeDay": 522,
+    "timeWeek": 478,
     "timeMonth": 471,
     "timeYear": 462,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "gestions-dofus.com",
-    "url": "http://gestions-dofus.com/",
-    "icon": "https://favicons.githubusercontent.com/gestions-dofus.com",
-    "slug": "gestions-dofus-com",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 664,
-    "timeDay": 664,
-    "timeWeek": 664,
-    "timeMonth": 664,
-    "timeYear": 664,
-    "dailyMinutesDown": {
-      "2022-02-02": 0
-    }
   }
 ]
