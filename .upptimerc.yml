@@ -65,6 +65,8 @@ sites:
 
   - name: Dofhelp !! 💪🏆
     url: http://www.dofhelp.fr
+  - name: event-clefs.shop
+    url: https://event-clefs.shop/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
