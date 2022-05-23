@@ -4,36 +4,40 @@
     "url": "https://dofuspoulesnoobs.com",
     "icon": "https://favicons.githubusercontent.com/dofuspoulesnoobs.com",
     "slug": "https-dofuspoulesnoobs-com-45-148-121-68",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 669,
     "timeDay": 669,
     "timeWeek": 669,
     "timeMonth": 669,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   },
   {
     "name": "https://www-dofus(.)com (45.148.121.166)",
     "url": "https://www-dofus.com",
     "icon": "https://favicons.githubusercontent.com/www-dofus.com",
     "slug": "https-www-dofus-com-45-148-121-166",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1607,
     "timeDay": 1607,
     "timeWeek": 1607,
     "timeMonth": 1607,
     "timeYear": 1607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   },
   {
     "name": "https://xn--papcha-rt8b(.)com (5.182.209.23)",
