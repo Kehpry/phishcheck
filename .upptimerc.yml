@@ -63,8 +63,13 @@ i18n:
 
 sites:
 
-  - name: Dofhelp !! 💪🏆
-    url: http://www.dofhelp.fr
+  - name: https://dofuspoulesnoobs(.)com (45.148.121.68)
+    url: https://dofuspoulesnoobs.com
+  - name: https://www-dofus(.)com (45.148.121.166)
+    url: https://www-dofus.com
+  - name: https://xn--papcha-rt8b(.)com (5.182.209.23)
+    url: https://xn--papcha-rt8b.com
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
