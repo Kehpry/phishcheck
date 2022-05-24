@@ -63,8 +63,6 @@ i18n:
 
 sites:
 
-  - name: https://pack-touch.shop (namecheap)
-    url: https://pack-touch.shop/
   - name: http://dofus-touch-com.fr/ (45.148.121.52)
     url: http://dofus-touch-com.fr/
   - name: https://xn--papcha-rt8b(.)com (5.182.209.23)
