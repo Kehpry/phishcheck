@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1436,
-    "timeDay": 1436,
+    "timeDay": 1560,
     "timeWeek": 1436,
     "timeMonth": 1436,
     "timeYear": 1436,
@@ -22,17 +22,19 @@
     "url": "http://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/",
     "icon": "https://favicons.githubusercontent.com/dofus-touch-com.fr",
     "slug": "http-dofus-touch-com-fr-ip-45-148-121-173",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 982,
-    "timeWeek": 982,
-    "timeMonth": 982,
-    "timeYear": 982,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {
+      "2022-05-24": 0
+    }
   }
 ]
