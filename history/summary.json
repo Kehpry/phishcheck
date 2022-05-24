@@ -1,6 +1,6 @@
 [
   {
-    "name": "https://xn--papcha-rt8b(.)com (5.182.209.23)",
+    "name": "https://xn--papcha-rt8b.com (5.182.209.23)",
     "url": "https://xn--papcha-rt8b.com",
     "icon": "https://favicons.githubusercontent.com/xn--papcha-rt8b.com",
     "slug": "https-xn-papcha-rt8b-com-5-182-209-23",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1558,
-    "timeDay": 1558,
-    "timeWeek": 1558,
-    "timeMonth": 1558,
-    "timeYear": 1558,
+    "time": 1436,
+    "timeDay": 1436,
+    "timeWeek": 1436,
+    "timeMonth": 1436,
+    "timeYear": 1436,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "http://dofus-touch-com.fr (IP 45.148.121.173)",
+    "url": "http://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/",
+    "icon": "https://favicons.githubusercontent.com/dofus-touch-com.fr",
+    "slug": "http-dofus-touch-com-fr-ip-45-148-121-173",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 982,
+    "timeDay": 982,
+    "timeWeek": 982,
+    "timeMonth": 982,
+    "timeYear": 982,
     "dailyMinutesDown": {}
   }
 ]
