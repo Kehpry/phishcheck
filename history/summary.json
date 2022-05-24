@@ -4,18 +4,20 @@
     "url": "https://pack-touch.shop/",
     "icon": "https://favicons.githubusercontent.com/pack-touch.shop",
     "slug": "https-pack-touch-shop-namecheap",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1032,
     "timeDay": 1032,
     "timeWeek": 1032,
     "timeMonth": 1032,
     "timeYear": 1032,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-24": 0
+    }
   },
   {
     "name": "http://dofus-touch-com.fr/ (45.148.121.52)",
