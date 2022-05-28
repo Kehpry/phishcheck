@@ -10,34 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1553,
-    "timeDay": 794,
-    "timeWeek": 1553,
-    "timeMonth": 1553,
-    "timeYear": 1553,
+    "time": 1474,
+    "timeDay": 621,
+    "timeWeek": 1474,
+    "timeMonth": 1474,
+    "timeYear": 1474,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "http://dofus-touch-com.fr (IP 45.148.121.173)",
-    "url": "http://dofus-touch-com.fr/",
-    "icon": "https://favicons.githubusercontent.com/dofus-touch-com.fr",
-    "slug": "http-dofus-touch-com-fr-ip-45-148-121-173",
-    "status": "up",
-    "uptime": "88.21%",
-    "uptimeDay": "66.44%",
-    "uptimeWeek": "88.21%",
-    "uptimeMonth": "88.21%",
-    "uptimeYear": "88.21%",
-    "time": 973,
-    "timeDay": 1459,
-    "timeWeek": 973,
-    "timeMonth": 973,
-    "timeYear": 973,
-    "dailyMinutesDown": {
-      "2022-05-28": 484,
-      "2022-05-27": 72,
-      "2022-05-25": 154,
-      "2022-05-24": 11
-    }
   }
 ]
