@@ -65,8 +65,8 @@ sites:
 
   - name: https://xn--papcha-rt8b.com (5.182.209.23)
     url: https://xn--papcha-rt8b.com
-  - name: http://dofus-touch-com.fr (IP 45.148.121.173)
-    url: http://dofus-touch-com.fr/
+ # - name: http://dofus-touch-com.fr (IP 45.148.121.173)
+ #   url: http://dofus-touch-com.fr/
   
 
 status-website:
