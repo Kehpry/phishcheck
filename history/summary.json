@@ -4,19 +4,19 @@
     "url": "https://xn--papcha-rt8b.com",
     "icon": "https://favicons.githubusercontent.com/xn--papcha-rt8b.com",
     "slug": "https-xn-papcha-rt8b-com-5-182-209-23",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1815,
-    "timeDay": 988,
+    "timeDay": 1032,
     "timeWeek": 1438,
     "timeMonth": 1815,
     "timeYear": 1815,
     "dailyMinutesDown": {
-      "2022-06-21": 10,
+      "2022-06-21": 0,
       "2022-06-20": 17
     }
   }
