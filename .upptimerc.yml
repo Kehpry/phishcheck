@@ -63,8 +63,8 @@ i18n:
 
 sites:
 
-  #- name: https://xn--papcha-rt8b.com (5.182.209.23)
-    #url: https://xn--papcha-rt8b.com
+  - name: dofuspoulesnoobs.com (176.123.0.83)
+    url: https://dofuspoulesnoobs.com/quetes/hell-minale/
   - name: dofus-touch-com.fr (176.123.0.83)
     url: https://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/
   
