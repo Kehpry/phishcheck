@@ -1,26 +1,22 @@
 [
   {
-    "name": "https://xn--papcha-rt8b.com (5.182.209.23)",
-    "url": "https://xn--papcha-rt8b.com",
-    "icon": "https://favicons.githubusercontent.com/xn--papcha-rt8b.com",
-    "slug": "https-xn-papcha-rt8b-com-5-182-209-23",
+    "name": "dofus-touch-com.fr (176.123.0.83)",
+    "url": "https://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/",
+    "icon": "https://favicons.githubusercontent.com/dofus-touch-com.fr",
+    "slug": "dofus-touch-com-fr-176-123-0-83",
     "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "51.50%",
-    "uptimeWeek": "92.81%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.78%",
-    "time": 1611,
+    "uptime": "62.37%",
+    "uptimeDay": "62.37%",
+    "uptimeWeek": "62.37%",
+    "uptimeMonth": "62.37%",
+    "uptimeYear": "62.37%",
+    "time": 0,
     "timeDay": 0,
-    "timeWeek": 659,
-    "timeMonth": 1344,
-    "timeYear": 1611,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-06": 143,
-      "2022-07-05": 556,
-      "2022-07-04": 27,
-      "2022-06-21": 19,
-      "2022-06-20": 17
+      "2022-07-06": 0
     }
   }
 ]
