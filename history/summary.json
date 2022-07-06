@@ -4,19 +4,19 @@
     "url": "https://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/",
     "icon": "https://favicons.githubusercontent.com/dofus-touch-com.fr",
     "slug": "dofus-touch-com-fr-176-123-0-83",
-    "status": "down",
-    "uptime": "54.79%",
-    "uptimeDay": "54.79%",
-    "uptimeWeek": "54.79%",
-    "uptimeMonth": "54.79%",
-    "uptimeYear": "54.79%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
+    "time": 2647,
+    "timeDay": 2647,
+    "timeWeek": 2647,
+    "timeMonth": 2647,
+    "timeYear": 2647,
     "dailyMinutesDown": {
-      "2022-07-06": 0
+      "2022-07-06": 67
     }
   }
 ]
