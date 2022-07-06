@@ -4,19 +4,19 @@
     "url": "https://dofuspoulesnoobs.com/quetes/hell-minale/",
     "icon": "https://favicons.githubusercontent.com/dofuspoulesnoobs.com",
     "slug": "dofuspoulesnoobs-com-176-123-0-83",
-    "status": "down",
-    "uptime": "42.52%",
-    "uptimeDay": "42.52%",
-    "uptimeWeek": "42.52%",
-    "uptimeMonth": "42.52%",
-    "uptimeYear": "42.52%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.53%",
+    "uptimeDay": "3.53%",
+    "uptimeWeek": "3.53%",
+    "uptimeMonth": "3.53%",
+    "uptimeYear": "3.53%",
+    "time": 4384,
+    "timeDay": 4384,
+    "timeWeek": 4384,
+    "timeMonth": 4384,
+    "timeYear": 4384,
     "dailyMinutesDown": {
-      "2022-07-06": 1
+      "2022-07-06": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/",
     "icon": "https://favicons.githubusercontent.com/dofus-touch-com.fr",
     "slug": "dofus-touch-com-fr-176-123-0-83",
-    "status": "down",
-    "uptime": "37.72%",
-    "uptimeDay": "37.72%",
-    "uptimeWeek": "37.72%",
-    "uptimeMonth": "37.72%",
-    "uptimeYear": "37.72%",
-    "time": 2635,
-    "timeDay": 2635,
-    "timeWeek": 2635,
-    "timeMonth": 2635,
-    "timeYear": 2635,
+    "status": "up",
+    "uptime": "33.61%",
+    "uptimeDay": "33.61%",
+    "uptimeWeek": "33.61%",
+    "uptimeMonth": "33.61%",
+    "uptimeYear": "33.61%",
+    "time": 2664,
+    "timeDay": 2664,
+    "timeWeek": 2664,
+    "timeMonth": 2664,
+    "timeYear": 2664,
     "dailyMinutesDown": {
-      "2022-07-06": 86
+      "2022-07-06": 103
     }
   }
 ]
