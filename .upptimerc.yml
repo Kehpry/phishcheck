@@ -63,10 +63,10 @@ i18n:
 
 sites:
 
-  - name: dofuspoulesnoobs.com (176.123.0.83)
-    url: https://dofuspoulesnoobs.com/quetes/hell-minale/
-  - name: dofus-touch-com.fr (176.123.0.83)
-    url: https://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/
+  #- name: dofuspoulesnoobs.com (176.123.0.83)
+    #url: https://dofuspoulesnoobs.com/quetes/hell-minale/
+  #- name: dofus-touch-com.fr (176.123.0.83)
+    #url: https://dofus-touch-com.fr/fr/mmorpg/actualites/news/faille-aerdalia/
   
 
 status-website:
