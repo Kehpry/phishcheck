@@ -1,23 +1,38 @@
 [
   {
-    "name": "Dofhelp",
-    "url": "https://www.dofhelp.fr",
-    "icon": "https://favicons.githubusercontent.com/www.dofhelp.fr",
-    "slug": "dofhelp",
+    "name": "dofuspoulesnoobs.com (142.132.203.69)",
+    "url": "https://dofuspoulesnoobs.com/quetes/hell-minale/",
+    "icon": "https://favicons.githubusercontent.com/dofuspoulesnoobs.com",
+    "slug": "dofuspoulesnoobs-com-142-132-203-69",
     "status": "up",
-    "uptime": "96.02%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.02%",
-    "time": 1361,
-    "timeDay": 1131,
-    "timeWeek": 1215,
-    "timeMonth": 1240,
-    "timeYear": 1361,
-    "dailyMinutesDown": {
-      "2022-02-09": 624,
-      "2022-02-08": 160
-    }
+    "uptimeYear": "100.00%",
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "www-dofus-com.fr (142.132.203.69)",
+    "url": "https://www-dofus-com.fr/fr/mmorpg/actualites/news/Mine-hell-minale/",
+    "icon": "https://favicons.githubusercontent.com/www-dofus-com.fr",
+    "slug": "www-dofus-com-fr-142-132-203-69",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
+    "dailyMinutesDown": {}
   }
 ]
