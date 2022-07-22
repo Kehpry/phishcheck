@@ -22,7 +22,7 @@
     "url": "https://www-dofus-com.fr/fr/mmorpg/actualites/news/Mine-hell-minale/",
     "icon": "https://favicons.githubusercontent.com/www-dofus-com.fr",
     "slug": "www-dofus-com-fr-142-132-203-69",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 828,
     "timeMonth": 828,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 0
+    }
   }
 ]
